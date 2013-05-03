@@ -1,0 +1,25 @@
+body {
+  background: #E5E9EC;
+}
+
+h1, h2, h3, h4 {
+  font-weight: normal;
+}
+
+h2 { color: #5A5A5A; }
+
+header.main { 
+  /*background: url(/assets/img/slash_it.png); */
+  background: #fafafa;
+  padding:20px 0;
+  color: #19558D;
+  margin-bottom: 20px;
+  /*color:#fafafa;*/  
+}
+
+section.portada { text-align: center; }
+section.portada .hero-unit { background: #E5E9EC; }
+
+i.big {
+  font-size: 56px;
+}

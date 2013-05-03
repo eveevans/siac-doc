@@ -1,0 +1,4 @@
+# Ignore sublime project files
+siac-doc.sublime-project
+siac-doc.sublime-workspace
+_site/
