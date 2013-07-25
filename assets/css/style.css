@@ -8,6 +8,8 @@ h1, h2, h3, h4 {
 
 h2 { color: #5A5A5A; }
 
+body.publico header{}
+
 header.main { 
   /*background: url(/assets/img/slash_it.png); */
   background: #fafafa;
@@ -17,8 +19,32 @@ header.main {
   /*color:#fafafa;*/  
 }
 
-section.portada { text-align: center; }
+/*header .main_menu {
+  text-align: right;
+}
+
+  header .main_menu li {
+    display: inline-block;
+  }
+
+  header .main_menu li a {
+    padding: 10px;    
+  }*/
+
+.navbar .navbar-brand { float: left; }
+.navbar .navbar-brand a { text-decoration: none; color:#19558D; }
+
+.navbar .nav { float: right; margin-top:10px;}
+
+/*section.portada { text-align: center; }*/
 section.portada .hero-unit { background: #E5E9EC; }
+
+.tcenter { text-align: center; }
+
+.seven, .sodd { padding:20px 0; }
+
+.seven {  background: #fafafa; }
+.sodd {}
 
 i.big {
   font-size: 56px;
