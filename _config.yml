@@ -1,3 +1,4 @@
 permalink: /:categories/:title.html
-url: "http://eveevans.github.io/siac-doc"
-baseurl: /siac-doc
+# url: "http://eveevans.github.io/siac-doc"
+# baseurl: /siac-doc
+baseurl: http://eveevans.github.io/siac-doc
